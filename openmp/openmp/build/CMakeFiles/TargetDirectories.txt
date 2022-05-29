@@ -1,0 +1,3 @@
+/Users/whisper-/Documents/labs3/rpp/openmp/openmp/build/CMakeFiles/main.dir
+/Users/whisper-/Documents/labs3/rpp/openmp/openmp/build/CMakeFiles/edit_cache.dir
+/Users/whisper-/Documents/labs3/rpp/openmp/openmp/build/CMakeFiles/rebuild_cache.dir
